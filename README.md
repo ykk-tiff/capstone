@@ -18,9 +18,9 @@ TBD - Still currently doing EDA and building the ML
 TBD
 
 **Project Organization**
-Sprint 1
-Sprint 2
-Sprint 3
+[Sprint 1](https://github.com/ykk-tiff/capstone/blob/master/colonML_Sprint1.ipynb)
+Sprint 2 - tbd
+Sprint 3 - tbd
 
 **Data**
 Labeled image data found on [Github](https://github.com/bupt-ai-cz/HSA-NRL/?tab=readme-ov-file)
