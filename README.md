@@ -50,3 +50,4 @@ This project utilizes a dataset from a 2022 deep learning study taken from the h
 
 **Credits & References**
 <br>C. Zhu, W. Chen, T. Peng, Y. Wang and M. Jin, "Hard Sample Aware Noise Robust Learning <br>for Histopathology Image Classification," in IEEE Transactions on Medical <br>Imaging, vol. 41, no. 4, pp. 881-894, April 2022, doi: 10.1109/TMI.2021.3125459.
+<br>Wei, J. et al. (2021). A Petri Dish for Histopathology Image Analysis. In: Tucker, A., <br>Henriques Abreu, P., Cardoso, J., Pereira Rodrigues, P., Riaño, D. (eds) Artificial <br>Intelligence in Medicine. AIME 2021. Lecture Notes in Computer Science(), vol 12721. <br>Springer, Cham. https://doi.org/10.1007/978-3-030-77211-6_2
