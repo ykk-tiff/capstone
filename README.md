@@ -1,19 +1,21 @@
-Yukie's Image ML Capstone
+
+
+# Using ML To Inspire A New Future For Pathology - Colon Tissue Image Classification 
+
+## A Capstone Project By Yukie Kuang 
 =========================
 
 **Project Overview**
 Problem Area:
-AI-assisted medical image analysis for chronic kidney disease has not been
-extensively developed. A problem area this project can solve is to detect functional tissue units, which are robust glomeruli, within kidney tissue images.
+Microscopic analysis of tissue morphology, a cornerstone in pathology, often leads to ambiguous results despite its widespread use. This ambiguity can lead to additional testing, affecting both efficiency and patient care. The integration of new image analyzers and potential partnerships with AI-based imaging software companies marks a significant shift towards technological advancements in diagnostics, bringing both opportunities and challenges. A critical goal is to thoroughly understand the challenges posed by AI models in tissue image analysis, as this understanding is key to effectively implementing AI in pathology. It's about more than just adopting new tools; it's about integrating them to improve diagnostic accuracy while considering the intricacies involved.
+
+With the increasing incidence of colon cancer and the growing pressures on pathology professionals, AI offers a solution to some of these challenges. Utilizing a dataset published in 2022 and found on GitHub, this project aims to accurately classify hematoxylin and eosin-stained colon tissue samples, ranging from benign to cancerous.
 
 **Walkthrough Demo**
 TBD - Still currently doing EDA and building the ML 
 
 **Project Flowchart**
-1. Load and evaluate the data
-2. EDA
-3. Build the model
-4. Finetunning the ML
+TBD
 
 **Project Organization**
 ... ... ...
